@@ -12,7 +12,13 @@ The tools used in this project Python libraries such as Pandas, NumPy, and Sciki
 
 ### Description:
 
-1.Built a classification model to predict customer churn in the telecom industry using algorithms like Logistic Regression, Decision Trees, and Random Forests. 
+1.Built a classification model to predict customer churn in the telecom industry using algorithms like Logistic Regression, Decision Trees, and Random Forests.
+
 2.Conducted exploratory data analysis (EDA) and evaluated model performance using accuracy, precision, and recall metrics. 
+
+
+
+
+
 
 
